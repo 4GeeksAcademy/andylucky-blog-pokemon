@@ -1,0 +1,25 @@
+
+img.favorito{
+    width: 30px;
+    height: 30px;
+}
+
+.custom-h3-color1{
+    background: #848499;
+    color: white;
+    font-size: 22px;
+    padding: 10px;
+}
+.custom-h3-color2{
+    background: #198754;
+    color: white;
+    font-size: 22px;
+    padding: 10px;
+}
+.custom-h3-color3{
+    background:#e4a67b;
+    color: white;
+    font-size: 22px;
+    padding: 10px;
+}
+
