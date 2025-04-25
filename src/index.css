@@ -22,4 +22,26 @@ img.favorito{
     font-size: 22px;
     padding: 10px;
 }
+button.hoverWHite {
+    margin-right: 15px;
+}
+button.hoverWHite a{
+    text-decoration: none;
+    color: white;
+    width: 100%;
+    display: inline-block;
+    height: 25px;
+    line-height: 24px;
+ 
+}
+
+button.hoverWHite a:hover{
+    color:white
+}
+
+.listapoke{
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+}
 
